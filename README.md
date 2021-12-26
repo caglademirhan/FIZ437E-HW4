@@ -19,27 +19,27 @@ and to evaluate our model effectively.
 Lists will be used in Classification using the NEURAL NETWORKS.
 #
 ### 5) Define, compile and train the CNN model 
-Number of epochs and accuracy rates were observed.
-Epochs: 75
-Batch size: 4
-Learning rate: 0.001
+Number of epochs and accuracy rates were observed.   
+Epochs: 75    
+Batch size: 4   
+Learning rate: 0.001   
 #
 ### 6) Accuracy and score of model
-CNN results:
-Test loss = 1.435703
-Test accuracy of book cover = 28% (50/177)
-Test accuracy of magazine cover = 67% (122/180)
-Test accuracy of movie poster = 78% (138/175)
+*CNN results:*   
+Test loss = 1.435703    
+Test accuracy of book cover = 28% (50/177)    
+Test accuracy of magazine cover = 67% (122/180)   
+Test accuracy of movie poster = 78% (138/175)  
 
-Test accuracy overall = 58% (310/532)
+Test accuracy overall = 58% (310/532)  
 #
-MLP results:
-Test loss = 1.170764
-Test accuracy of book cover = 81% (144/177)
-Test accuracy of magazine cover = 24% (44/180)
-Test accuracy of movie poster = 20% (35/175)
+*MLP results:*  
+Test loss = 1.170764                                        
+Test accuracy of book cover = 81% (144/177)   
+Test accuracy of magazine cover = 24% (44/180)   
+Test accuracy of movie poster = 20% (35/175)   
 
-Test accuracy overall = 41% (223/532)
+Test accuracy overall = 41% (223/532)   
 
 
 
